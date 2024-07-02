@@ -82,6 +82,8 @@ console.log(stringNumber);//33
 // object conversions array coneversions are also there , we will get to know about it
 // when we will be working on forms and projects in js....
 
+
+// outputes at once, to remove confusion:-
 // number
 // number
 // string
